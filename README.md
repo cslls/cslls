@@ -1,10 +1,6 @@
 ## Hi there 👋
-[
 
-[![Alt Text](https://c.tenor.com/DM7SdBiQKhEAAAAd/tenor.gif)](https://c.tenor.com/DM7SdBiQKhEAAAAd/tenor.gif)
-
-
-https://c.tenor.com/DM7SdBiQKhEAAAAd/tenor.gif
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <!--
 **cslls/cslls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
