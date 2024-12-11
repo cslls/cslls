@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[![Cat Underwater]([https://tenor.com/view/cat-underwater-gif-922906369727670801)](https://media1.tenor.com/m/DM7SdBiQKhEAAAAd/cat-underwater.gif)
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+https://c.tenor.com/DM7SdBiQKhEAAAAd/tenor.gif
 
 <!--
 **cslls/cslls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
