@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<div class="tenor-gif-embed" data-postid="922906369727670801" data-share-method="host" data-aspect-ratio="0.871486" data-width="100%"><a href="https://tenor.com/view/cat-underwater-gif-922906369727670801">Cat Underwater GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+![Cat Underwater](https://tenor.com/view/cat-underwater-gif-922906369727670801)
 <!--
 **cslls/cslls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
